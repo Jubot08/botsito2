@@ -26,5 +26,5 @@ let buttonMessage= {
 {buttonId: `${usedPrefix}donar`, buttonText: {displayText: '𝙳𝙾𝙽𝙰𝚁'}, type: 1}],
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
-handler.command = ['Botiktoker','botiktok']
+handler.command = ['Botiktok','Bottiktok']
 export default handler
