@@ -5,20 +5,20 @@ import fs from 'fs'
 import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
-  ['5219992095479', '👑 fenix - Creador 👑', true],
-  ['34642467703', '👑 fenix - Collaborator 1 👑', true],
-  ['50499698072', '👑 fenix - Collaborator 2 👑', true],
-  ['51940617554', '👑 fenix - Collaborator 3 👑', true],
-  ['51996089079', '👑 fenix - Collaborator 4 👑', true],
-  ['573225236629', '👑 fenix - Collaborator 5 👑', true],
+  ['573236191090', '👑 fenix - Creador 👑', true],
+  ['', '👑 fenix - Collaborator 1 👑', true],
+  ['', '👑 fenix - Collaborator 2 👑', true],
+  ['', '👑 fenix - Collaborator 3 👑', true],
+  ['', '👑 fenix - Collaborator 4 👑', true],
+  ['573236191090', '👑 fenix - Collaborator 5 👑', true],
   ['593968585283'],
   ['5219992095479'],
   ['5219991402134'],
   ['5219993404349'],
   ['5219996125657']
 ] 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['573236191090'] 
+global.prems = ['573236191090'] 
 
 global.packname = '𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 sticker'
 global.author = '★𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 - ★'
