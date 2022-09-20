@@ -13,7 +13,7 @@ let data = res.aweme_detail.video.play_addr.url_list
 let meta = await getInfo(url).catch(_ => {})
 await conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id, mentions: [m.sender] })
 let buttons = [{ buttonText: { displayText: '𝙰𝚄𝙳𝙸𝙾' }, buttonId: `${usedPrefix}tomp3` }]
-conn.sendMessage(m.chat, { video: { url: data[data.length - 1] }, caption: '_ᴛʜᴇ ᴍʏsᴛɪᴄ ﹣ ʙᴏᴛ_', footer: await shortUrl(data[data.length - 1]), buttons }, { quoted: m })
+conn.sendMessage(m.chat, { video: { url: data[data.length - 1] }, caption: '_𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 +57', footer: await shortUrl(data[data.length - 1]), buttons }, { quoted: m })
 } catch {
 try {
 let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: texto, contextInfo: { externalAdReply: { title: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', body: null, thumbnail: imagen1, sourceUrl: 'https://github.com/BrunoSobrino/TheMystic-Bot-MD' }, mentionedJid: [m.sender] }}}, { quoted: m })
