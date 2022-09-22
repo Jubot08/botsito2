@@ -5,7 +5,7 @@ let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
 *➤ 𝙶𝚛𝚞𝚙𝚘𝚜 𝚘𝚏𝚒𝚌𝚒𝚊𝚕𝚎𝚜 𝚍𝚎𝚕 𝙱𝚘𝚝:*
 *1.-* 
 
-*2.-* https://chat.whatsapp.com/DbXBmsydWBE1ZN3EoY0hRs
+*2.-* https://chat.whatsapp.com/GWUtDFilWhPD0QVFjTnJll
 
 *3.-* 
 
