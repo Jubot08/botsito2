@@ -16,7 +16,7 @@ global.owner = [
   [''],
   [''],
   [''],
-']
+  [''],
 ] 
 global.suittag = ['573236191090'] 
 global.prems = ['573236191090'] 
