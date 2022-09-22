@@ -6,7 +6,7 @@ import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
   ['573236191090', '👑 fenix - Creador 👑', true],
-  ['', '👑 fenix - Collaborator 1 👑', true],
+  ['573236191090', '👑 fenix - Collaborator 1 👑', true],
   ['', '👑 fenix - Collaborator 2 👑', true],
   ['', '👑 fenix - Collaborator 3 👑', true],
   ['', '👑 fenix - Collaborator 4 👑', true],
@@ -19,7 +19,7 @@ global.owner = [
 ']
 ] 
 global.suittag = ['573236191090'] 
-global.prems = ['573023460399'] 
+global.prems = ['573236191090'] 
 
 global.packname = '𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 sticker'
 global.author = '★𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 - ★'
