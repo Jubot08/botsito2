@@ -10,15 +10,16 @@ global.owner = [
   ['', '👑 fenix - Collaborator 2 👑', true],
   ['', '👑 fenix - Collaborator 3 👑', true],
   ['', '👑 fenix - Collaborator 4 👑', true],
-  ['573236191090', '👑 fenix - Collaborator 5 👑', true],
-  ['593968585283'],
-  ['5219992095479'],
-  ['5219991402134'],
-  ['5219993404349'],
-  ['5219996125657']
+  ['', '👑 fenix - Collaborator 5 👑', true],
+  [''],
+  [''],
+  [''],
+  [''],
+  ['
+']
 ] 
 global.suittag = ['573236191090'] 
-global.prems = ['573236191090'] 
+global.prems = ['573023460399'] 
 
 global.packname = '𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 sticker'
 global.author = '★𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 - ★'
