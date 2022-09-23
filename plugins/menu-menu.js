@@ -480,8 +480,8 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟☠ _${usedPrefix}crash6_
 `.trim()
 let buttons = [
-{ buttonId: '#donar', buttonText: { displayText: '📮 𝙳𝙾𝙽𝙰𝚁 📮' }, type: 1 },
-{ buttonId: '#owner', buttonText: { displayText: '🌹 𝙾𝚆𝙽𝙴𝚁 🌹' }, type: 1 }]
+{ buttonId: '#donar', buttonText: { displayText: '🇲🇽 𝙳𝙾𝙽𝙰𝚁 🖤' }, type: 1 },
+{ buttonId: '#owner', buttonText: { displayText: '🥵 𝙾𝚆𝙽𝙴𝚁 🇨🇴' }, type: 1 }]
 //{ buttonId: '#infobot', buttonText: { displayText: '🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾' }, type: 1 }]
 let buttonMessage = {
 image: imagen1,
@@ -496,7 +496,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐓𝐇𝐄 fenix - 𝐁𝐎𝐓 👑',
+title: '👑 𝐓𝐇𝐄 𝐹𝑒𝑛𝑖𝑥 - 𝐁𝐎𝐓 👑',
 body: null,
 thumbnail: img,
 sourceUrl: `https://chat.whatsapp.com/GWUtDFilWhPD0QVFjTnJll`
