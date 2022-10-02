@@ -22,5 +22,5 @@ año:2022 creador JHONMENDEZ2006
  
 m.reply(text)   
 }
-handler.command = /^(youtubebot)/i
+handler.command = /^(ytbot)/i
 export default handler
