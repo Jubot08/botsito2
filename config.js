@@ -7,7 +7,7 @@ import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 global.owner = [
   ['573236191090', '👑 fenix - Creador 👑', true],
   ['573236191090', '👑 fenix - Collaborator 1 👑', true],
-  ['', '👑 fenix - Collaborator 2 👑', true],
+  ['51996089079', '👑 fenix - Collaborator 2 👑', true],
   ['', '👑 fenix - Collaborator 3 👑', true],
   ['', '👑 fenix - Collaborator 4 👑', true],
   ['', '👑 fenix - Collaborator 5 👑', true],
