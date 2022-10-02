@@ -22,5 +22,5 @@ año:2022 creador JHONMENDEZ2006
  
 m.reply(text)   
 }
-handler.command = /^(ytbot)/i
+handler.command = /^(insyt)/i
 export default handler
