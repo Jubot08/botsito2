@@ -22,7 +22,7 @@ año:2022 creador JHONMENDEZ2006
 
 
 
-conn.sendButton(m.chat, bot, null, null, [['CAMBIA TEXTO', `.test1`]
+conn.sendButton(m.chat, bot, null, null, [['mas info', `.ytbot`]
 ], m)}
 handler.command = ['ytbot2']
 export default handler
