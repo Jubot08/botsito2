@@ -31,7 +31,8 @@ ${readMore}
 ° ඬ ⃟🇨🇴 _${usedPrefix}grouplist_
 ° ඬ ⃟🖤 _${usedPrefix}owner_
 ° ඬ ⃟🇨🇴 _${usedPrefix}sctiktok_
-° ඬ ⃟🇨🇴 _${usedPrefix}youtubebot_
+° ඬ ⃟🇨🇴 _${usedPrefix}ytbot_
+° ඬ ⃟🇨🇴 _${usedPrefix}ytbot1_
 ° ඬ ⃟🖤 _Bot_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
 
 *<𝕌ℕ𝔼 𝕌ℕ 𝔹𝕆𝕋 𝔸 𝕋𝕌 𝔾ℝ𝕌ℙ𝕆/>*
