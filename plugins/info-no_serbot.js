@@ -30,6 +30,6 @@ let buttonMessage= {
 {buttonId: `${usedPrefix}instalarbot`, buttonText: {displayText: 'youtubebot'}, type: 1}],
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
-handler.command = /^(jadibot|youtubebot|bots|subbots|getcode)/i
+handler.command = /^(jadibot|ytbot2|bots|subbots|getcode)/i
 export default handler
 
