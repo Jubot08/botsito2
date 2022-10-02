@@ -7,6 +7,6 @@ P͓̽U͓̽E͓̽D͓̽E͓̽ ͓̽S͓̽E͓̽G͓̽U͓̽I͓̽R͓̽ ͓̽A͓̽L͓̽ ͓̽
 }
 handler.help = ['test']
 handler.tags = ['owner']
-handler.command =  ['test1']
+handler.command =  ['ytbot']
 handler.rowner = true
 export default handler
