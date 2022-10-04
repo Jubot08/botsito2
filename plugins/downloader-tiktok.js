@@ -16,7 +16,7 @@ let buttons = [{ buttonText: { displayText: '𝙰𝚄𝙳𝙸𝙾' }, buttonId: 
 conn.sendMessage(m.chat, { video: { url: data[data.length - 1] }, caption: '_𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 +57', footer: await shortUrl(data[data.length - 1]), buttons }, { quoted: m })
 } catch {
 try {
-let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: texto, contextInfo: { externalAdReply: { title: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', body: null, thumbnail: imagen1, sourceUrl: 'https://youtube.com/channel/UCdPOQ4Wn6zNu8P3e98rXZwg' }, mentionedJid: [m.sender] }}}, { quoted: m })
+let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: texto, contextInfo: { externalAdReply: { title: '𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 -2023', body: null, thumbnail: imagen1, sourceUrl: 'https://youtube.com/channel/UCdPOQ4Wn6zNu8P3e98rXZwg' }, mentionedJid: [m.sender] }}}, { quoted: m })
 const { author: { nickname }, video, description } = await tiktokdl(args[0]).catch(async _ => await tiktokdlv2(args[0]))
 const url = video.no_watermark_raw || video.no_watermark || video.no_watermark_hd || video.with_watermark
 await conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id, mentions: [m.sender] })
