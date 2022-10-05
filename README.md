@@ -1,4 +1,4 @@
-# `🇨🇴𝚃𝚑𝚎 Mendez - 𝙱𝚘𝚝 😈🔮`
+# `🇨🇴 𝙱𝚘𝚝 😈🔮`
 
 ## BOT ACTIVO 😈🇨🇴
 
@@ -21,11 +21,14 @@ Y mucho mas`
 
 ```bash
      INFORMACIÓN 🇨🇴🇨🇴🇨🇴
-> NUESTRO BOT SE ENCUENTRA EN MANTENIMIENTO 
-> SE RECOMIENDA NO USARLO HASTA PREVIO AVISO!
-> 
-> 
+> bot activo 
+> si usted cogió está base
+> No cambiar esto
+> (Derechos de autor: Jhon mendez)
 ADVERTENCIAS: 
+
+Este bot se estará actualizando
+ 
 ```
 
 ### `—◉ ⚙️ AJUSTES E INFORMACIÓN ⚙️`
