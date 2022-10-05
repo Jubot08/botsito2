@@ -13,7 +13,7 @@ let data = res.aweme_detail.video.play_addr.url_list
 let meta = await getInfo(url).catch(_ => {})
 await conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id, mentions: [m.sender] })
 let buttons = [{ buttonText: { displayText: '𝙰𝚄𝙳𝙸𝙾' }, buttonId: `${usedPrefix}tomp3` }]
-conn.sendMessage(m.chat, { video: { url: data[data.length - 1] }, caption: '_𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 +57', footer: await shortUrl(data[data.length - 1]), buttons }, { quoted: m })
+conn.sendMessage(m.chat, { video: { url: data[data.length - 1] }, caption: '_AQUI ESTA SU TIKTOK', footer: await shortUrl(data[data.length - 1]), buttons }, { quoted: m })
 } catch {
 try {
 let prep = generateWAMessageFromContent(m.chat, { extendedTextMessage: { text: texto, contextInfo: { externalAdReply: { title: '𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 -2023', body: null, thumbnail: imagen1, sourceUrl: 'https://youtube.com/channel/UCdPOQ4Wn6zNu8P3e98rXZwg' }, mentionedJid: [m.sender] }}}, { quoted: m })
@@ -21,7 +21,7 @@ const { author: { nickname }, video, description } = await tiktokdl(args[0]).cat
 const url = video.no_watermark_raw || video.no_watermark || video.no_watermark_hd || video.with_watermark
 await conn.relayMessage(m.chat, prep.message, { messageId: prep.key.id, mentions: [m.sender] })
 let buttons = [{ buttonText: { displayText: '𝙰𝚄𝙳𝙸𝙾' }, buttonId: `${usedPrefix}tomp3` }]
-conn.sendMessage(m.chat, { video: { url: url}, caption: '_𝕱é𝖓𝖎𝖝 𝖇𝖔𝖙 +57_', footer: await shortUrl(url), buttons }, { quoted: m })
+conn.sendMessage(m.chat, { video: { url: url}, caption: '_BOT WHATSAPP_', footer: await shortUrl(url), buttons }, { quoted: m })
 } catch {
 await m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙻𝙾 𝙻𝙰𝙼𝙴𝙽𝚃𝙾, 𝙾𝙲𝚄𝚁𝚁𝙸𝙾 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝙰𝙻 𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰𝚁 𝚂𝚄 𝚅𝙸𝙳𝙴𝙾, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*')  
 }}}
